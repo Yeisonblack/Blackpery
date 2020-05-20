@@ -1,0 +1,7 @@
+EL MANIFEST.JSON= Es un documento la cual contiene una serie de parametros y comportamientos  a ejecutar en el service workers
+SERVICE WORKERS= "Tecnologia jscript que nos permite covertir nuestro sitio en app de escritorio o movil tomando algunos aspectos nativos
+
+PASO
+1: PREPARAMOS EL ARCHIVO MANIFEST DE TYPE JSON
+2: VALIDAMOS POR MEDIO DE UN ARCHIVO JS SI EL NAVEGADOR SOPORTA SERVICEWORKER
+3: CONFIGURACION DEL SERVICEWORKER
